@@ -1,0 +1,1 @@
+This directory contains my low_level_programming exercises and projects for ALX repository under the same name.
