@@ -1,0 +1,1 @@
+This directory contains variables,if,else,while exercises done as pasrt of the low level programming project for the ALX program.
