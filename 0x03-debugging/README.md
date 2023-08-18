@@ -1,0 +1,1 @@
+This directory contains debugging exercises and tasks done as part of the alx software development course.
