@@ -1,0 +1,1 @@
+This directory contains exercises and tasks related to more functions and nested loops as further exercises in the alx software development programme.
