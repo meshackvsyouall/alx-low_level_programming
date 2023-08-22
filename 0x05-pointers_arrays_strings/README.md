@@ -13,3 +13,7 @@ In this task, I've implemented a C function `swap_int` that takes two pointers t
 ## Task 2: String Length
 
 In this task, I've implemented a C function `_strlen` that takes a pointer to a string as a parameter and returns the length of the string.
+
+## Task 3: Print a String
+
+In this task, I've implemented a C function `_puts` that takes a pointer to a string as a parameter and prints the string followed by a new line to the standard output.
