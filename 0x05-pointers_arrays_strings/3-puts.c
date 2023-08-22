@@ -13,5 +13,5 @@ while (str[i] != '\0')
 _putchar(str[i]);
 i++;
 }
-_putchar('\n'); // Print a new line at the end
+_putchar('\n');
 }
