@@ -12,3 +12,14 @@ To compile the test program for this task, you can use the following command:
 
 ```sh
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-reset_to_98.c -o 0-98
+
+## Task 1: Swap Integers
+
+In this task, I've implemented a C function `swap_int` that takes two pointers to integers as parameters and swaps the values of the integers they point to.
+
+### Compilation
+
+To compile the test program for this task, you can use the following command:
+
+```sh
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-swap
