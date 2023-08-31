@@ -1,0 +1,1 @@
+This directory contains pointers, arrays and string related exercises and tasks I did as part of the ALX-software Development Programme.
