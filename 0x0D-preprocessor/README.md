@@ -1,0 +1,1 @@
+This directory contains preprocessor tasks and exercises done as part of the ALX-software development program.
